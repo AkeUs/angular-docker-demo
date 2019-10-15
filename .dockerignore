@@ -1,0 +1,11 @@
+dist/
+e2e/
+node_modules/
+
+.vs
+.vscode
+.git
+.dockerignore
+.editorconfig
+.gitignore
+README.md
